@@ -50,20 +50,12 @@ Dashboard Actions
 
 Data Visualization Best Practices
 
-📷 Dashboard Preview
-
-(Add your exported dashboard images here)
-
-Example:
-
-![Executive Dashboard](images/executive_dashboard.png)
-![Genre Analysis](images/genre_analysis.png)
 
 🔗 Live Dashboard
 
 (If published on Tableau Public, paste link here)
 
-https://public.tableau.com/your-dashboard-link
+https://public.tableau.com/app/profile/datascience.roadmap/viz/Netflix_16791909068940/Netflix
 
 📂 Project Files
 
